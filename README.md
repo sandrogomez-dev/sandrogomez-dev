@@ -1,69 +1,55 @@
 # ¡Hola! 👋 Soy Sandro Gómez  
 ### 💻 Desarrollador Full-Stack en formación | ✨ Apasionado por la tecnología que transforma vidas
 
-```diff
-+ "De HTML a React, de curiosidad a código. Construyendo el futuro, un proyecto a la vez."
-🚀 Tecnologías y Herramientas
-🔧 Stack Principal
-JavaScript
-React
-Python
-SQL
-HTML5
-CSS3
+> *"De HTML a React, de curiosidad a código. Construyendo el futuro, un proyecto a la vez."*
 
-🛠 Otras Herramientas
-Git
-VS Code
+---
 
-🌱 Qué estoy aprendiendo ahora
-React Hooks y patrones avanzados.
+## 🚀 **Tecnologías y Herramientas**  
 
-Backend con Python (FastAPI/Django).
+### 🔧 **Stack Principal**  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-Bases de datos SQL/NoSQL.
+### 🛠 **Otras Herramientas**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
 
-Diseño de APIs RESTful.
+---
 
-🎯 Metas 2024
-Convertirme en Full-Stack Developer.
+## 🌱 **Qué estoy aprendiendo ahora**  
+- **React Hooks** y patrones avanzados.  
+- **Backend con Python** (FastAPI/Django).  
+- **Bases de datos SQL/NoSQL**.  
+- Diseño de APIs RESTful.  
 
-Publicar 3 proyectos open-source.
+---
 
-Dominar arquitectura limpia y testing.
+## � **Metas 2025**  
+- Convertirme en **Full-Stack Developer**.  
+- Publicar 3 proyectos open-source.  
+- Dominar **arquitectura limpia y testing**.  
 
-💡 Proyectos Destacados
-Proyecto	Tecnologías	Descripción
-TaskMaster	React, Python	App de tareas con IA
-Portfolio	HTML, CSS	Mi sitio personal
-(Reemplaza con tus proyectos reales y enlaces)
+---
 
-📊 Mis Estadísticas GitHub
-Estadísticas
-Lenguajes
+## 💡 **Proyectos Destacados**  
+| Proyecto | Tecnologías | Descripción |  
+|----------|------------|-------------|  
+| [TaskMaster](https://github.com/...) | React, Python | App de tareas con IA |  
+| [Portfolio](https://github.com/...) | HTML, CSS | Mi sitio personal |  
 
-📫 ¡Conectemos!
-🔗 LinkedIn
+*(Reemplaza con tus proyectos reales y enlaces)*  
 
-📧 sandrogomez-dev@gmail.com (recomiendo usar un email profesional)
+---
 
-🎥 YouTube (si subes contenido técnico)
+## 📊 **Mis Estadísticas GitHub**  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=sandrogomez-dev&show_icons=true&theme=radical)  
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=sandrogomez-dev&layout=compact)  
 
-diff
-! "¿Quieres colaborar o charlar de tech? ¡Mi inbox está abierto!"
-🎨 Toques finales:
-Añade emojis (como los que ves arriba) para dar vida al texto.
+---
 
-Incluye imágenes o GIFs de tus proyectos (usa Alt).
+## 📫 **¡Conectemos!**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sandro-gomez-21355b346)  
+- 📧 sandrodevx@gmail.com  
+- 🎥 [YouTube](https://youtube.com/@SandroDevX)  
 
-Personaliza los badges: Usa shields.io para más estilos.
-
-✅ Qué logramos:
-Perfil técnico pero humano: Balance entre habilidades y personalidad.
-
-LLamado a la acción: Invitas a conectar/clonar.
-
-Visualmente atractivo: Con badges, tablas y stats.
-
-¿Quieres añadir algo más? (Ej: un banner personalizado, humor, hobbies). ¡Dímelo y lo integramos! 🚀
+> *"¿Quieres colaborar o charlar de tech? ¡Mi inbox está abierto!"*  
 
