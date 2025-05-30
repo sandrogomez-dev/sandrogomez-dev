@@ -33,7 +33,7 @@
 ## 💡 **Featured Projects**  
 | Project | Technologies | Description |  
 |----------|------------|-------------|  
-| [TaskMaster](https://github.com/...) | React, Python | AI-powered task app |  
+| [AI Image Studio](https://ai-image-studio-frontend.vercel.app/) | Next.js, FastAPI, AWS | AI-powered image generation studio |
 | [Portfolio](https://github.com/...) | HTML, CSS | My personal site |  
 
 *(Replace with your real projects and links)*  
