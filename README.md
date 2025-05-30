@@ -34,7 +34,7 @@
 | Project | Technologies | Description |  
 |----------|------------|-------------|  
 | [AI Image Studio](https://ai-image-studio-frontend.vercel.app/) | Next.js, FastAPI, AWS | AI-powered image generation studio |
-| [Generador de Currículum Profesional v2.0](https://github.com/sandrogomez-dev/generador-cv) | React, Vite, Firebase, OpenAI | Advanced web app for creating professional resumes with AI and smart analysis. |
+| [Generador de Currículum Profesional v2.0](https://generador-curriculum.vercel.app/) | React, Vite, Firebase, OpenAI | Advanced web app for creating professional resumes with AI and smart analysis. |
 | [Portfolio](https://github.com/...) | HTML, CSS | My personal site |  
 
 *(Replace with your real projects and links)*  
