@@ -1,7 +1,9 @@
 # Hello! 👋 I'm Sandro Gómez  
 ### 💻 Aspiring Full-Stack Developer | ✨ Passionate about life-changing technology  
 
-> *"From HTML to React, from curiosity to code. Building the future, one project at a time."*  
+> *"From HTML to React, from curiosity to code. Building the future, one project at a time."*
+> 
+| [Portfolio](https://portfolio-sandro-black.vercel.app/)
 
 ---  
 
@@ -35,7 +37,7 @@
 |----------|------------|-------------|  
 | [AI Image Studio](https://ai-image-studio-frontend.vercel.app/) | Next.js, FastAPI, AWS | AI-powered image generation studio |
 | [Generador de Currículum Profesional v2.0](https://generador-curriculum.vercel.app/) | React, Vite, Firebase, OpenAI | Advanced web app for creating professional resumes with AI and smart analysis. |
-| [Portfolio](https://portfolio-sandro-black.vercel.app/) | HTML, CSS | My personal site |  
+
 
 
 
